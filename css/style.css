@@ -4,7 +4,7 @@ body{
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif; 
     background-color: #F6F8F9;
-    font-weight: 300;
+    font-weight: 600;
 
 
 }
@@ -27,6 +27,50 @@ img, h1{
   
 }
 
+/* MAIN */
+.box{
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    background-color: white;
+    border-radius: 2px;
+
+}
+
+.buttons{
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 0.6rem; 
+}
+
+.button{
+    display: inline-block; 
+    padding: 5px 9px;
+    border-radius: 3px;
+
+
+}
+
+.addtask{
+    color: white;
+    background-color: #47ADF1;
+
+
+}
+
+.addsection{
+    color: lightslategray;
+    background-color: white;
+    border: 1px lightslategrey solid;
+
+ 
+}
+
+hr{
+ 
+    border: #F6F8F9 solid 1px;
+}
 
 
 
