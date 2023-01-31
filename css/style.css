@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif; 
+    background-color: #F6F8F9;
+    font-weight: 300;
+
+
+}
+
+/* Header */
+.banner{
+    width: 100%;
+    line-height: 10px;
+    padding-left: 1rem;
+    background-color: white;
+ 
+}
+
+img, h1{
+    display: inline-block;
+    font-size: 2rem;
+    color: #031732;
+    vertical-align: middle;
+
+  
+}
+
+
+
+
+
